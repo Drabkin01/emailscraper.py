@@ -1,4 +1,4 @@
-# Email-Scraper.py
+# EmailScraper.py
 
 This repository contains a Python script for an email scraper. The script extracts email addresses from a given URL and its linked pages. It utilizes the BeautifulSoup library to parse HTML content and the requests library to make HTTP requests.
 
